@@ -44,7 +44,7 @@ public class LoginScreen extends JFrame {
         // Painel para os botões
         JPanel buttonPanel = new JPanel(new FlowLayout());
         JButton loginButton = new JButton("Login");
-        JButton cancelButton = new JButton("Cancelar");
+        JButton cancelButton = new JButton("Cancela");
 
         // Adicionando botões ao painel
         buttonPanel.add(loginButton);
